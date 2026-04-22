@@ -2,7 +2,7 @@
 
 Visualize and compare IoT data from ThingSpeak channels directly in MATLAB. Supports time comparisons (recent vs. historical), multi-channel comparisons, auto-updating controls, dark mode, and data export.
 
-![App Screen Shot](https://github.com/thingspeak/IoT-Data-Explorer/blob/master/IoTExploreGuiView1.png)
+![App Screen Shot](images/IoTExploreGuiView1.png)
 
 ## Getting Started
 
